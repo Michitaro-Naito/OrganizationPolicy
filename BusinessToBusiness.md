@@ -3,9 +3,10 @@
 ##We will provide Good, High Quality Products
 
 ###It's Beautiful
-####It looks Warm
-####It looks Clean
-####It looks Safe
+####Warm
+####Clean
+####Simple
+####Safe
 
 ###It's Technically Great
 ####Protect Data
